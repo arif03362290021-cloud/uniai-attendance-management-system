@@ -1,0 +1,6 @@
+{
+  "name": "UniAI Attendance Management System",
+  "description": "Enterprise-level AI-powered university attendance management system with UniAI Assistant, role-based controls, smart QR/GPS attendance, and predictive analytics.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
